@@ -28,15 +28,15 @@ defaultheart:
     # If you want a slot to be blank, use 'AIR' or 'empty'
     # If you want to use other custom item (like hearts) use the custom item name (e.g. "defaultheart")
     rowOne:
-      - "GOLD_BLOCK"
-      - "GOLD_BLOCK"
-      - "GOLD_BLOCK"
-    rowTwo:
-      - "OBSIDIAN"
-      - "NETHER_STAR"
-      - "OBSIDIAN"
-    rowThree:
       - "DIAMOND_BLOCK"
+      - "NETHERITE_INGOT"
+      - "DIAMOND_BLOCK"
+    rowTwo:
+      - "DIAMOND_BLOCK
+      - "OMINOUS TRIAL KEY"
+      - "DIAMOND_BLOCK"
+    rowThree:
+      - "NETHERITE_BLOCK
       - "DIAMOND_BLOCK"
       - "DIAMOND_BLOCK"
   sound:
